@@ -1,0 +1,1 @@
+print("hello crishtiano БОгдан сергійович")
